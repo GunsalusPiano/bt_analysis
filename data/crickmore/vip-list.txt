@@ -1,0 +1,293 @@
+Vip1Aa1	 	 	Warren et al
+1998
+US 5770696 June 1998	AB78
+Vip1Aa2	PS177C8 Mis	AAR81088	Feitelson et al
+1999
+US 6656908  Dec 2003	Bt PS177C8	WO9957282(A2,A3)  11Nov 1999
+Vip1Aa3	 	GU992203	Xiumei Yu et al	2010	 	Bt 376
+.
+.
+
+Vip1Ab1	Vip1Ab	 	Warren et al
+1998
+US 5770696 June 1998	Btt
+.
+Vip1Ac1	 	HM439098	Xiumei Yu	
+2010
+
+.
+Vip1Ad1	 	AGC08395	Yang Bi et al	2013	 	Bt HF-18
+.
+Vip1Ba1	MB438 Mis (Blat 784D)	AAR40886	Schnepf et al
+2000
+US  6605701 Aug 2003	B lat MB438	WO0009697(A2,A3) 24Feb 2000
+Vip1Ba2	ISP1B	CAI43278	Van Rie	2005	 	B laterosporus
+.
+.
+
+Vip1Bb1	PS31F2 Mis	AAR40282	Feitelson et al
+1999
+US 6656908  Dec 2003	Bt PS31F2	WO9957282(A2,A3)  11Nov 1999
+Vip1Bb2	Vip1062b	HM485584	Ming Sun
+Vip1Bb3	Vip1_V-J20.2	KR065727	Gomis et al	2015
+.
+.
+
+Vip1Bc1	 	HM485583	Sun Ming	2010
+.
+Vip1Ca1	Vip1Ac	AAO86514	Shi et al
+2003
+unpublished	HD201
+Vip1Ca2	Vip_V-54.26	KR065725	Gomis et al	2015
+.
+.
+
+Vip1Da1	ISP1A	CAI40767	Boets et al
+2004
+US 6706860 Mar 2004
+.
+.
+
+Vip2Aa1	Vip2Aa	1QS1A	Warren et al
+1998
+US 5770696 June 1998	AB78
+Vip2Aa2	PS177C8 War	AAR81096	Feitelson et al
+1999
+US 6656908  Dec 2003	Bt PS177C8	WO9957282(A2,A3)  11Nov 1999
+Vip2Aa3	 	HM439097	Xiumei Yu	2010	 	Bt 376
+.
+.
+
+Vip2Ab1	Vip2Ab	 	Warren et al
+2000
+US 6066783 May 2000	Btt
+.
+.
+
+Vip2Ac1	Vip2Ac	AAO86513	Shi et al
+2003
+unpublished	HD201
+Vip2Ac2	Vip2_V-54.26	KR065726	Gomis et al	2015
+.
+.
+
+Vip2Ad1	ISP2A	CAI40768	Boets et al
+2004
+US 6706860 Mar2004
+.
+Vip2Ae1	 	EF442245	Basu et al	2007	unpublished	Bt
+Vip2Ae2	 	ACH42758	Roopadevi et al	2009	unpublished	Bt HD8
+Vip2Ae3	 	HM439099	Xiumei Yu	2010	unpublished	Bc 84
+.
+Vip2Af1	 	ACH42759	Roopadevi et al	2008	unpublished	Bt HD525
+Vip2Af2	 	EU909204	Roopadevi et al	2008	unpublished	Bt HD8
+.
+Vip2Ag1	 	AGC08396	Yang Bi et al	2013	 	Bt HF-18
+Vip2Ag2	 	KC951878	Gardenia	2013	 	Bt Q52-7
+.
+.
+
+Vip2Ba1	MB438 War (Blat451D)	AAR40887	Schnepf et al
+1999
+US 6605701 Aug2003	B lat MB438	WO0009697(A2,A3) 24Feb 2000
+Vip2Ba2	ISP2B	CAI43279	Van Rie et al
+2005
+ 	B laterosporus
+.
+.
+
+Vip2Bb1	PS31F2 War	 	Feitelson et al
+1999
+US 6656908 Dec 2003	Bt PS31F2	WO9957282(A2,A3)  11Nov 1999
+Vip2Bb2	 	HM485585	Sun et al	2010	 	Sbt106
+Vip2Bb3	 	KJ868170	Palma et al	2014	 	Bt tolworthy Na205-3
+Vip2Bb4	Vip2_V-J20.2	KR065728	Gomis et al	2015
+.
+.
+
+Vip3Aa1	Vip3Aa	AAC37036	Estruch et al
+1996
+PNAS 93, 5389-5394	AB88
+Vip3Aa2	Vip3Ab	AAC37037	Estruch et al
+1996
+PNAS 93, 5389-5394	AB424
+Vip3Aa3	Vip3Ac	 	Estruch et al
+2000
+US 6137033 Oct 2000
+Vip3Aa4	PS36A Sup	AAR81079	Feitelson et al
+1998
+US 6656908 Dec 2003	Bt PS36A	WO9818932(A2,A3) 7 May 1998
+Vip3Aa5	PS81F Sup	AAR81080	Feitelson et al
+1998
+US 6656908 Dec 2003	Bt PS81F	WO9818932(A2,A3) 7 May 1998
+Vip3Aa6	Jav90 Sup	AAR81081	Feitelson et al
+1998
+US 6656908 Dec 2003	Bt	WO9818932(A2,A3) 7 May 1998
+Vip3Aa7	Vip83	AAK95326	Cai et al
+2001
+unpublished	Bt YBT-833
+Vip3Aa8	Vip3A	AAK97481	Loguercio et al
+2001
+unpublished	Bt HD125
+Vip3Aa9	VipS	CAA76665	Selvapandiyan et al
+2001
+unpublished	Bt A13
+Vip3Aa10	Vip3V	AAN60738	Doss et al
+2002
+Protein Expr. Purif. 26, 82-88	Bt
+Vip3Aa11	Vip3A	AAR36859	Liu et al
+2003
+unpublished	Bt C9
+Vip3Aa12	Vip3A-WB5	AAM22456	Wu and Guan
+2003
+unpublished	Bt
+Vip3Aa13	Vip3A	AAL69542	Chen et al
+2002
+Sheng Wu Gong Cheng Xue Bao 18, 687-692	Bt S184
+Vip3Aa14	Vip	AAQ12340	Polumetla et al
+2003
+unpublished	Bt tolworthi
+Vip3Aa15	Vip3A	AAP51131	Wu et al
+2004
+unpublished	Bt WB50
+Vip3Aa16	Vip3LB	AAW65132	Mesrati et al	2005	FEMS Micro Lett 244, 353-358	Bt
+Vip3Aa17	Jav90	 	Feitelson et al	1999	US 6603063 Aug 2003	Javelin 1990	WO9957282(A2,A3)  11Nov 1999
+Vip3Aa18	 	AAX49395	Cai and Xiao	2005	unpublished	Bt 9816C
+Vip3Aa19.0	Vip3ALD	DQ241674	Liu et al	2006	unpublished	Bt AL
+Vip3Aa19	Vip3A-1	DQ539887	Hart et al	2006	unpublished
+Vip3Aa20	Vip3A-2	DQ539888	Hart et al	2006	unpublished
+Vip3Aa21	Vip	ABD84410	Panbangred	2006	unpublished	Bt aizawai
+Vip3Aa22	Vip3A-LS1	AAY41427	Lu et al	2005	unpublished	Bt LS1
+Vip3Aa23	Vip3A-LS8	AAY41428	Lu et al	2005	unpublished	Bt LS8
+Vip3Aa24	 	BI 880913	Song et al	2007	unpublished	Bt WZ-7
+Vip3Aa25	 	EF608501	Hsieh et al	2007	unpublished
+Vip3Aa26	 	EU294496	Shen and Guo	2007	unpublished	Bt TF9
+Vip3Aa27	 	EU332167	Shen and Guo	2007	unpublished	Bt 16
+Vip3Aa28	 	FJ494817	Xiumei Yu	2008	unpublished	Bt JF23-8
+Vip3Aa29	 	FJ626674	Xieumei et al	2009	unpublished	Bt JF21-1
+Vip3Aa30	 	FJ626675	Xieumei et al	2009	unpublished	MD2-1
+Vip3Aa31	 	FJ626676	Xieumei et al	2009	unpublished	JF21-1
+Vip3Aa32	 	FJ626677	Xieumei et al	2009	unpublished	MD2-1
+Vip3Aa33	 	GU073128	Diego Sauka	2009	 	Btk HD1
+Vip3Aa34	 	GU073129	Diego Sauka	2009	 	INTA TA24-6
+Vip3Aa35	 	GU733921	Audtho et al	2010	unpublished	Bt M190
+Vip3Aa36	 	GU951510	Feng et al	2010
+Vip3Aa37	 	HM132041	Sauka et al	2010	 	Bt HD110
+Vip3Aa38	 	HM117632	Shu et al	2010
+Vip3Aa39	 	HM117631	Shu et al	2010
+Vip3Aa40	 	HM132042	Sauka et al	2010
+Vip3Aa41	 	HM132043	Sauka et al	2010
+Vip3Aa42	 	HQ587048	Marucci et al	2010
+Vip3Aa43	 	HQ594534	Marucci et al	2010
+Vip3Aa44	 	HQ650163	Kaur et al	2010	 	BCSC 4A6
+Vip3Aa45	 	JF710269	Palma et al	2011
+Vip3Aa46	 	JQ228436	Zhao Shiyuan	2011	 	Bt LB-73
+Vip3Aa47	 	JQ228435	Zhao Shiyuan	2011	 	Bt LS-10
+Vip3Aa48	 	JQ731616	Tao Liu	2012	 	Bt ZG151-20
+Vip3Aa49	 	JQ731617	Tao Liu	2012	 	Bt ZG162-12
+Vip3Aa50	 	JQ946639	Figueiredo et al	2012	 	Bt I131
+Vip3Aa51	 	KC156649	Sampson et al	2012
+Vip3Aa52	 	KF826718	Ying Li et al	2013
+Vip3Aa53	 	KF826723	Ying Li et al	2013
+Vip3Aa54	 	AHK23264	Binjiao Xie	2014
+Vip3Aa55	 	KJ868172	Palma et al	2014
+Vip3Aa56	 	LN624748	Padaria and Lone	2014	 	MTCC 5846
+Vip3Aa57	 	AJD18609	Lishuai Shuai	2014	 	Bt LS678
+Vip3Aa58	 	KR259139	Kaznowski et al	2015	 	HD1
+Vip3Aa59	 	KR259140	Kaznowski et al	2015	 	MPU B33
+Vip3Aa60	 	KR340473	Bo Liu et al	2015
+Vip3Aa61	 	KU522245	Padaria et al	2016	 	Bt JK37
+Vip3Aa62	 	KT792883	Li	2016	 	Bt ls2
+Vip3Aa63	 	KY780302	Gilani et al	2017
+Vip3Aa64	 	KY883694	Soonsanga et al	2017	 	Bt294
+.
+.
+
+Vip3Ab1	Vip3B	AAR40284	Feitelson et al
+1999
+US 6603063 Aug 2003	Bt KB59A4-6	WO9957282(A2,A3)  11Nov 1999
+Vip3Ab2	Vip3D	AAY88247	Feng and Shen	2006	unpublished	Bt
+.
+.
+
+Vip3Ac1	PS49C	 	Narva et al
+.
+US application 20040128716
+.
+.
+
+Vip3Ad1	PS158C2	 	Narva et al
+.
+US application 20040128716
+Vip3Ad2	ISP3B	CAI43276	Van Rie et al
+2005
+unpublished	Bt
+Vip3Ad3	 	KF826720	Ying Li et al	2013
+Vip3Ad4	 	KF826727	Ying Li et al	2013
+Vip3Ad5	 	KR263164	Bo Liu et al	2015	 	Bt-HD-0203-01
+Vip3Ad6	 	KU761577	Bairong Lin	2016
+.
+.
+
+Vip3Ae1	ISP3C	CAI43277	Van Rie et al
+2005
+unpublished	Bt
+.
+.
+
+Vip3Af1	ISP3A	CAI43275	Van Rie et al
+2005
+unpublished	Bt
+Vip3Af2	Vip3C	 	Syngenta
+.
+WO 03/075655
+Vip3Af3	 	HM117634	Shu et al	2010
+Vip3Af4	 	KM276664	Zonglan Yu	2014	 	Bt BN23-5
+.
+.
+
+Vip3Ag1	Vip3B	 	Syngenta
+.
+WO 02/078437
+Vip3Ag2	 	FJ556803	Audtho et al	2010	 	Bt
+Vip3Ag3	 	HM117633	Shu et al	2010
+Vip3Ag4	 	HQ414237	Palma et al	2010
+Vip3Ag5	 	HQ542193	Marucci et al	2010
+Vip3Ag6	 	JQ397328	Palma et al	2011
+Vip3Ag7	 	KF826713	Ying Li et al	2013
+Vip3Ag8	 	KF826714	Ying Li et al	2013
+Vip3Ag9	 	KF826715	Ying Li et al	2013
+Vip3Ag10	 	KF826716	Ying Li et al	2013
+Vip3Ag11	 	KF826719	Ying Li et al	2013
+Vip3Ag12	 	KF826721	Ying Li et al	2013
+Vip3Ag13	 	KF826722	Ying Li et al	2013
+Vip3Ag14	 	KF826725	Ying Li et al	2013
+Vip3Ag15	 	KF826726	Ying Li et al	2013
+.
+.
+
+Vip3Ah1	Vip3S	DQ832323	Li and Shen	2006	unpublished	Bt
+Vip3Ah2	 	AQY42675	Cai et al	2017	 	Bt L-7601
+.
+Vip3Ai1	 	KC156693	Sampson et al	2012
+.
+Vip3Aj1	 	KF826717	Ying Li et al	2013
+Vip3Aj2	 	KF826724	Ying Li et al	2013
+.
+Vip3Ba1	 	AAV70653	Rang et al	2004	unpublished
+Vip3Ba2	 	HM117635	Shu et al	2010
+.
+Vip3Bb1	Vip3Z	 	Syngenta
+.
+WO 03/075655
+Vip3Bb2	 	ABO30520	Beard et al	2007
+Vip3Bb3	 	ADI48120	Audtho et al	2010
+
+Vip3Bc	 	MF543028	Zack et al	2016
+
+Vip3Ca1	 	ADZ46178	Palma et al	2012
+Vip3Ca2	 	AEE98106	Hernandez et al	2012
+Vip3Ca3	 	HQ876489	Maeztu et al	2011
+Vip3Ca4	 	JN836992	Maeztu et al	2011
+
+Vip4Aa1	 	HM044666	Ming Sun et al	2010	 	Bt Sbt009
