@@ -1,0 +1,21 @@
+To obtain known cry sequences I used the Crickmore database to grab the accessions for each gene. I provided all of these to entrez batch to querying against the protein database. Then for those that were not found in the protein database, I provided those accessions to the nucleotide database and grabbed the CDS. Of all the crickmore sequences only 12 were not found:
+
+The following records can't be retrieved:
+Id=KJ28844:	nuccore: Wrong UID KJ28844
+Id=KJ28845:	nuccore: Wrong UID KJ28845
+Id=KJ28846:	nuccore: Wrong UID KJ28846
+Id=MG674828:	nuccore: Wrong UID MG674828
+Id=MG983752:	nuccore: Wrong UID MG983752
+Id=MG983753:	nuccore: Wrong UID MG983753
+Id=MG983754:	nuccore: Wrong UID MG983754
+Id=MH253686:	nuccore: Wrong UID MH253686
+Id=MH475904:	nuccore: Wrong UID MH475904
+Id=MH475905:	nuccore: Wrong UID MH475905
+Id=MH475906:	nuccore: Wrong UID MH475906
+Id=MH475907:	nuccore: Wrong UID MH475907
+
+For the CDS I used transeq (EMBOSS) to translate the first frame:
+transeq -clean -sequence crickmore-cds.fasta -outseq crickmore-cds.translated.fasta -frame 1
+
+and then combined them with the aa sequences
+cat crickmore-aa.fasta crickmore-cds.translated.fasta > all-cry-aa.fasta
