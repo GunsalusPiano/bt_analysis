@@ -220,10 +220,7 @@ Cry1Ia17	GU989199	 	 	Li et al	2010	Bt MX2
 Cry1Ia18	ADK23801	300492624	 	Li et al	2010	Bt MX9	 
 Cry1Ia19	HQ439787	 	 	Liu et al	2010	Bt SC6H6	 
 Cry1Ia20	JQ228426	 	 	Zhao Can	2011	Bt wu1H-3	 
-Cry1Ia21	JQ228424	 	 	
-Zhao Can
-
-2011	Bt you1D-9	 
+Cry1Ia21	JQ228424	 	 	Zhao Can	2011	Bt you1D-9
 Cry1Ia22	JQ228427	 	 	Zhao Can	2011	Bt wu1E-3	 
 Cry1Ia23	JQ228428	 	 	Zhao Can	2011	Bt wu1E-4	 
 Cry1Ia24	JQ228429	 	 	Zhao Can	2011	Bt wu2B-6	 

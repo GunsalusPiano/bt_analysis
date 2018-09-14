@@ -32,6 +32,12 @@ Id=MH475905:	nuccore: Wrong UID MH475905
 Id=MH475906:	nuccore: Wrong UID MH475906
 Id=MH475907:	nuccore: Wrong UID MH475907
 
+Also had to omit AL731825 and CP015350 as they were improperly annotated in NCBI.
+```shell
+# I deleted the specific accessions from the accession file
+grep --no-group-separator -A1 -F -f cry-accessions.txt crickmore-cds.1line.fasta  > temp && mv temp crickmore-cds.fasta
+```
+
 For the CDS I used transeq (EMBOSS) to translate the first frame:
 ```shell
 transeq -clean -sequence crickmore-cds.fasta -outseq crickmore-cds.translated.fasta -frame 1
@@ -52,17 +58,20 @@ To proceed, I used getorf to grab all potential CDS between start and stop codon
 ```shell
 getorf -noreverse -find 1 -sequence a1-d12.allseqs.cds.fasta -outseq a1-d12.allseqs.cds.getorf.fasta
 ```
-
-The shortest sequence from Patric in 63bp so not sure if running `getorf` will be a good move since we might wipe some of the data, but worst case scenario we just omit this step. This analysis will at least catch the low hanging fruit.
+Since there are multiple aa sequences per cds I grabbed the largest with this script
 ```shell
-getorf -minsize 230 -noreverse -find 3 -sequence data/patric/a1-d12.allseqs.cds.fasta -outseq data/patric/a1-d12.allseqs.cds.getorf.fasta
-grep -c '>' data/patric/a1-d12.allseqs.cds*                                                                            
-data/patric/a1-d12.allseqs.cds.fasta:6707
-data/patric/a1-d12.allseqs.cds.getorf.fasta:5485
+python ../../../scripts/get-longest-seq.py a1-d12.allseqs.cds.getorf.fasta > a1-d12.allseqs.cds.getorf.largets-aa.fasta
 ```
 
-
-I figured tblastx would be the most ideal but the results didn't yield that different of results. So I ran a blastn:
+now it's a protein-protein blast
 ```shell
-blastn -db data/crickmore/cry-proteins.cds.getorf.fasta -query data/patric/a1-d12.allseqs.cds.getorf.fasta -max_target_seqs 1 -culling_limit 1 -evalue 0.00005 -out data/patric/a1-d12.allseqs.cds.getorf.blastn.tsv -outfmt '6 qaccver saccver pident length qlen slen mismatch gapopen qstart qend sstart send evalue bitscore' -num_threads 4 -max_hsps 1
+blastp -query a1-d12.allseqs.cds.getorf.largets-aa.fasta -db all-cry-aa.fasta -out a1-d12.allseqs.cds.getorf.blastp.tsv -outfmt '6 qaccver saccver pident length qlen slen mismatch gapopen qstart qend sstart send evalue bitscore' -num_threads 4 -max_target_seqs 1 -culling_limit 1 -max_hsps 1 -evalue 0.00005
 ```
+
+This didn't work out very well - there were an insane amount of hits with no clear cut method to filter out, especially considering the distribution of protein lengths in the crickmore db.
+
+So next I ran blastx (translated query vs protein db) on the PATRIC contigs and it came out looking much better.
+```shell
+blastx -query a1-d12.contigs.fasta -db all-cry-aa.fasta -out contig-blastx.tsv -outfmt '6 qaccver saccver pident length qlen slen mismatch gapopen qstart qend sstart send evalue bitscore' -num_threads 4 -max_target_seqs 2 -culling_limit 1 -evalue 0.00005
+```
+I think at this point in the game we should just roll with ToxinScanner and come back to this later to see the likelihood of it missing anything.
