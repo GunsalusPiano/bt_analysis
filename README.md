@@ -49,6 +49,68 @@ cat crickmore-aa.fasta crickmore-cds.translated.fasta > all-cry-aa.fasta
 ```
 
 ### PATRIC
+I ran blastx with the contigs against the crickmore database. The results were the same as the d12 ToxinScanner results.
+```shell
+blastx -query a1-d12.contigs.fasta -db all-cry-aa.fasta -out contig-blastx.tsv -outfmt '6 qaccver saccver pident length qlen slen mismatch gapopen qstart qend sstart send evalue bitscore' -num_threads 4 -max_target_seqs 1 -culling_limit 1 -evalue 0.00005 -max_hsps 1
+```
+
+```
+accn|91061.11.con.0048  Cry6Ba1 30.571  350     17299   395     217     6       8651    9622    43      392     2.25e-32        129
+accn|91061.11.con.0049  Cry55Aa3        26.855  283     17477   363     180     8       3098    2307    68      342     2.78e-12        68.2
+accn|91061.11.con.0054  Cry6Aa1 28.736  348     15326   475     224     5       6907    7878    37      384     8.96e-37        144
+accn|91061.11.con.0055  Cry75Aa3        33.784  222     15041   317     128     8       5681    5064    94      312     3.70e-18        85.1
+accn|91061.11.con.0060  Cry4Ba2 76.577  111     12780   1136    26      0       6932    7264    1026    1136    7.47e-39        156
+accn|91061.11.con.0065  Cry4Ba1 62.742  1138    11299   1136    400     11      6594    9956    5       1135    0.0     1397
+accn|91061.11.con.0089  Cry11Bb2        73.755  522     8574    793     90      4       5654    7114    1       510     0.0     691
+accn|91061.11.con.0099  Cry44Aa1        41.772  316     4521    686     156     9       4471    3554    373     670     3.03e-57        207
+accn|91061.11.con.0110  Cry4Aa2 45.285  1230    4103    1180    532     30      3734    312     1       1178    0.0     950
+```
+So now to see if these are full length ORFs I will extract just those contigs that hit and see if they are full length.
+```shell
+python ../../../scripts/get-seq-by-names.py -s a1-d12.contigs.fasta -n accn\|91061.11.con.0048 accn\|91061.11.con.0049 accn\|91061.11.con.0054 accn\|91061.11.con.0055 accn\|91061.11.con.0060 accn\|91061.11.con.0065 accn\|91061.11.con.0089 accn\|91061.11.con.0099 accn\|91061.11.con.0110
+
+mv out.fasta toxin-contigs.fasta
+
+getorf -find 1 -sequence toxin-contigs.fasta -out toxin-contigs.getorf.fasta
+```
+
+
+
+I also ran blastp after extracting the predicted genes from PATRIC, getting the ORFs, and translating them. This is more of an assessment of PATRIC and ToxinScanner to see if/what is wasn't found by the analysis.
+```shell
+getorf -noreverse -find 1 -sequence a1-d12.allseqs.cds.fasta -outseq a1-d12.allseqs.cds.getorf.fasta
+
+python ../../../scripts/get-longest-seq.py a1-d12.allseqs.cds.getorf.fasta > a1-d12.allseqs.cds.getorf.largets-aa.fasta
+
+blastp -query a1-d12.allseqs.cds.getorf.largets-aa.fasta -db all-cry-aa.fasta -out a1-d12.allseqs.cds.getorf.blastp.tsv -outfmt '6 qaccver saccver pident length qlen slen mismatch gapopen qstart qend sstart send evalue bitscore' -num_threads 4 -max_target_seqs 2 -culling_limit 1 -evalue 0.00005
+```
+| Gene name | Cry name| percend_identity | aln len | gene len | cry len | mismatch | gapopen | qstart | qend | sstart send | evalue | bitscore |
+| 91061.11.peg.3383 | Cry6Ba1 | 30.571 | 350 | 353 | 395 | 217 | 6 | 19 | 342 | 43 | 392 | 2.02e-43 | 150 |
+| 91061.11.peg.3393 | Cry55Aa3 | 26.855 | 283 | 324 | 363 | 180 | 8 | 57 | 320 | 68 | 342 | 4.55e-18 | 80.1 |
+| 91061.11.peg.3619 | Cry6Aa1 | 28.736 | 348 | 353 | 475 | 224 | 5 | 19 | 342 | 37 | 384 | 1.68e-44 | 155 |
+| 91061.11.peg.3631 | Cry75Aa2 | 34.404 | 218 | 294 | 317 | 124 | 8 | 92 | 293 | 98 | 312 | 7.94e-24 | 95.1 |
+| 91061.11.peg.3727 | Cry4Ba2 | 69.643 | 56 | 71 | 1136 | 17 | 0 | 10 | 65 | 1064 | 1119 | 5.08e-23 | 86.7 |
+| 91061.11.peg.3724 | Cry73Aa1 | 34.884 | 215 | 469 | 802 | 117 | 7 | 270 | 469 | 595 | 801 | 9.11e-25 | 103 |
+| 91061.11.peg.3731 | Cry11Bb2 | 91.045 | 67 | 136 | 793 | 6 | 0 | 70 | 136 | 726 | 792 | 2.01e-35 | 125 |
+| 91061.11.peg.3734 | Cry75Aa3 | 35.714 | 126 | 345 | 317 | 80 | 1 | 111 | 236 | 95 | 219 | 4.69e-16 | 73.9 |
+| 91061.11.peg.3789 | Cry19Ca1 | 55.199 | 1183 | 1167 | 1192 | 474 | 19 | 5 | 1160 | 6 | 1159 | 0.0 | 1229 |
+| 91061.11.peg.3792 | Cry4Ba1 | 62.742 | 1138 | 1146 | 1136 | 400 | 11 | 25 | 1145 | 5 | 1135 | 0.0 | 1397 |
+| 91061.11.peg.4021 | Cry8Pa3 | 53.642 | 151 | 184 | 173 | 70 | 0 | 33 | 183 | 21 | 171 | 1.19e-59 | 180 |
+| 91061.11.peg.4022 | Cry11Bb1 | 89.474 | 38 | 38 | 750 | 4 | 0 | 1 | 38 | 1 | 38 | 7.52e-17 | 67.0 |
+| 91061.11.peg.4023 | Cry11Bb2 | 95.556 | 45 | 45 | 793 | 2 | 0 | 1 | 45 | 129 | 173 | 3.13e-26 | 94.4 |
+| 91061.11.peg.4024 | Cry11Bb1 | 80.952 | 21 | 21 | 750 | 4 | 0 | 1 | 21 | 277 | 297 | 9.86e-07 | 37.4 |
+| 91061.11.peg.4025 | Cry11Bb2 | 90.141 | 71 | 71 | 793 | 7 | 0 | 1 | 71 | 440 | 510 | 3.14e-40 | 135 |
+| 91061.11.peg.4033 | Cry73Aa1 | 26.804 | 97 | 179 | 802 | 58 | 4 | 21 | 104 | 190 | 286 | 3.10e-05 | 39.7 |
+| 91061.11.peg.4097 | Cry44Aa1 | 44.245 | 278 | 269 | 686 | 139 | 8 | 2 | 269 | 375 | 646 | 8.78e-62 | 202 |
+| 91061.11.peg.4331 | Cry4Aa2 | 45.285 | 1230 | 1218 | 1180 | 532 | 30 | 1 | 1141 | 1 | 1178 | 0.0 | 949 |
+| 91061.11.peg.4331 | Cry11Ba1 | 64.103 | 39 | 1218 | 724 | 14 | 0 | 1180 | 1218 | 682 | 720 | 4.99e-11 | 62.8 |
+| 91061.11.peg.4358 | Cry8La1 | 25.882 | 170 | 540 | 1197 | 103 | 5 | 83 | 240 | 57 | 215 | 9.58e-06 | 44.3 |
+
+
+
+
+
+# Old stuff
 Now extract the orfs from the Patric assembly
 
 I grabbed the "CDS" from PATRIC. It doesn't look like all of them are only CDS so I'm a little unsure how to proceed with these data.
