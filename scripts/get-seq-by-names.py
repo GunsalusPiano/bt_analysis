@@ -1,4 +1,5 @@
 import argparse
+import sys
 from Bio import SeqIO
 
 parser = argparse.ArgumentParser(description='Gets sequences by name(s).')
@@ -14,4 +15,4 @@ with open(args.sequences, 'r') as f:
             seqs.append(record)
             # SeqIO.write(record,'out.fasta','fasta')
 
-SeqIO.write(seqs,'out.fasta','fasta')
+SeqIO.write(seqs,sys.stdout,'fasta')
