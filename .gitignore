@@ -4,7 +4,7 @@
 *phr
 *pin
 *psq
-.jupyter*
-.ipython*
-.local*
+^.jupyter*
+^.ipython*
+^.local*
 *.ipynb_checkpoints*
