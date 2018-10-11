@@ -112,3 +112,10 @@ find /opt/conda/ | grep -i 'font' | grep -i 'qt'
 find /opt/conda/ | grep -i 'font' | grep -i 'qt' 
 find /opt/conda/ | grep -i 'font' | grep -i 'qt' | less
 find /opt/conda/ | grep -i 'font' | grep -i 'qt' | more 
+xvfb-run ete3 view -t '(a, b); ' -o test.png
+xvfb-run ete3 view -t '(a, b); ' -o test.png
+ls
+xvfb-run 
+xvfb-run "ete3 view -t '(a, b); ' -o test.png"
+ete3 view -t '(a, b); ' -o test.png
+xvfb-run ete3 view -t '(a, b); ' -o test.png
