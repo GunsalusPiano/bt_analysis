@@ -4,7 +4,5 @@
 *phr
 *pin
 *psq
-^.jupyter*
-^.ipython*
-^.local*
-*.ipynb_checkpoints*
+.*
+!/.gitignore
