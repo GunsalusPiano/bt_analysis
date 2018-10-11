@@ -1,0 +1,521 @@
+>Cluster 0
+0	1523aa, >Cry32Ka1... *
+>Cluster 1
+0	1461aa, >Cry32Ha1... *
+1	1256aa, >Cry32Hb1... at 85.51%
+>Cluster 2
+0	1427aa, >Cry32Ra1... *
+>Cluster 3
+0	1385aa, >Cry5Aa1... *
+>Cluster 4
+0	1371aa, >Cry32Ta1... *
+>Cluster 5
+0	1369aa, >Cry32Ya1... *
+>Cluster 6
+0	1350aa, >Cry32Fa1... *
+>Cluster 7
+0	1344aa, >Cry43Aa1... *
+1	1340aa, >Cry43Aa2... at 97.31%
+>Cluster 8
+0	1332aa, >Cry43Ba1... *
+>Cluster 9
+0	1327aa, >Cry5Ca2... at 100.00%
+1	1328aa, >Cry5Ca1... *
+>Cluster 10
+0	1313aa, >Cry32Qa1... *
+>Cluster 11
+0	1305aa, >Cry32Ma1... *
+1	1302aa, >Cry32Mb1... at 93.16%
+>Cluster 12
+0	1302aa, >Cry21Ca1... *
+1	1302aa, >Cry21Ca2... at 97.54%
+>Cluster 13
+0	1302aa, >Cry32Oa1... *
+>Cluster 14
+0	1296aa, >Cry32Ja1... *
+>Cluster 15
+0	1273aa, >Cry43Ca1... at 85.78%
+1	1294aa, >Cry43Cb1... *
+2	1257aa, >Cry43Cc1... at 87.11%
+>Cluster 16
+0	1290aa, >Cry21Da1... *
+>Cluster 17
+0	1289aa, >Cry5Ab1... *
+>Cluster 18
+0	1287aa, >Cry32Ia1... *
+>Cluster 19
+0	1286aa, >Cry21Ba1... *
+>Cluster 20
+0	1284aa, >Cry32Na1... *
+>Cluster 21
+0	1280aa, >Cry32Da1... *
+>Cluster 22
+0	1277aa, >Cry32Sa1... *
+>Cluster 23
+0	1276aa, >Cry32La1... *
+>Cluster 24
+0	1276aa, >Cry21Fa1... *
+>Cluster 25
+0	1270aa, >Cry32Ba1... *
+>Cluster 26
+0	1268aa, >Cry32Ga1... *
+>Cluster 27
+0	1217aa, >Cry69Aa1... at 97.12%
+1	1217aa, >Cry69Ab1... at 82.99%
+2	1265aa, >Cry69Aa2... *
+>Cluster 28
+0	1264aa, >Cry21Ha1... *
+>Cluster 29
+0	1259aa, >Cry32Ea1... *
+1	1248aa, >Cry32Eb1... at 92.31%
+2	1259aa, >Cry32Ea2... at 96.51%
+>Cluster 30
+0	1257aa, >Cry12Aa1... *
+>Cluster 31
+0	1257aa, >Cry1Bh1... *
+>Cluster 32
+0	1254aa, >Cry32Ca1... *
+1	1251aa, >Cry32Cb1... at 83.77%
+>Cluster 33
+0	1180aa, >Cry4Aa1... at 80.76%
+1	1180aa, >Cry4Aa2... at 81.02%
+2	1180aa, >Cry4Aa3... at 81.02%
+3	1180aa, >Cry4Aa4... at 81.02%
+4	1181aa, >Cyt2Ba9.22... at 80.95%
+5	1250aa, >mb11.5843... *
+>Cluster 34
+0	1245aa, >Cry5Ba1... *
+1	1245aa, >Cry5Ba2... at 99.68%
+2	1245aa, >Cry5Ba3... at 99.04%
+>Cluster 35
+0	1242aa, >Cry32Pa1... *
+>Cluster 36
+0	1238aa, >Cry32Ua1... *
+>Cluster 37
+0	1228aa, >Cry1Ba1... at 87.87%
+1	1228aa, >Cry1Ba2... at 87.79%
+2	1227aa, >Cry1Be1... at 83.94%
+3	1228aa, >Cry1Ba4... at 87.79%
+4	1228aa, >Cry1Ba3... at 87.79%
+5	1228aa, >Cry1Bf1... at 88.11%
+6	1228aa, >Cry1Bf2... at 87.95%
+7	1227aa, >Cry1Be2... at 83.70%
+8	1235aa, >Cry1Bg1... at 92.63%
+9	1228aa, >Cry1Ba6... at 87.30%
+10	1228aa, >Cry1Ba5... at 87.87%
+11	1227aa, >Cry1Be3... at 83.46%
+12	1201aa, >Cry1Be4... at 83.93%
+13	1206aa, >Cry1Ba7... at 87.81%
+14	1238aa, >Cry1Bi1... *
+15	1229aa, >Cry1Ba8... at 87.88%
+16	1234aa, >Cry1Bj1... at 88.98%
+17	1227aa, >Cry1Be5... at 83.78%
+>Cluster 38
+0	1236aa, >Cry32Aa1... at 99.60%
+1	1237aa, >Cry32Aa2... *
+2	1237aa, >Cry32Ab1... at 94.99%
+>Cluster 39
+0	1235aa, >Cry21Ga1... *
+>Cluster 40
+0	1229aa, >Cry1Bb1... at 94.55%
+1	1233aa, >Cry1Bc1... *
+2	1231aa, >Cry1Bd1... at 86.03%
+3	1231aa, >Cry1Bd2... at 86.68%
+4	1203aa, >Cry1Bb2... at 94.43%
+5	1203aa, >Cry1Bb3... at 94.35%
+6	1232aa, >Cry1Bd3... at 85.71%
+>Cluster 41
+0	1157aa, >Cry4Cb3... at 94.47%
+1	1231aa, >Cry4Ca1... at 98.86%
+2	1158aa, >Cry4Cc1... at 93.35%
+3	1158aa, >Cry4Cb1... at 93.35%
+4	1137aa, >Cry4Cb2... at 94.11%
+5	1233aa, >Cry4Ca2... *
+6	1224aa, >mb11.5423... at 93.06%
+>Cluster 42
+0	1232aa, >Cry8Ta1... *
+>Cluster 43
+0	1230aa, >Cry9Ga1... *
+>Cluster 44
+0	1213aa, >Cry8Ib3... at 97.36%
+1	1195aa, >Cry8Ia1... at 88.62%
+2	1195aa, >Cry8Ia2... at 88.28%
+3	1215aa, >Cry8Ib1... at 99.67%
+4	1196aa, >Cry8Ia3... at 87.96%
+5	1213aa, >Cry8Ia4... at 88.29%
+6	1227aa, >Cry8Ib2... *
+7	1089aa, >j1.2309... at 89.72%
+>Cluster 45
+0	1181aa, >Cry8Ab1... at 82.39%
+1	1226aa, >Cry8Ac1... *
+>Cluster 46
+0	1218aa, >d12.4331... *
+>Cluster 47
+0	1215aa, >Cry1Ka1... *
+1	1189aa, >Cry1Ka2... at 99.16%
+>Cluster 48
+0	1169aa, >Cry8Ba1... at 81.69%
+1	1206aa, >Cry8Bb1... at 90.63%
+2	1210aa, >Cry8Bc1... *
+>Cluster 49
+0	1207aa, >Cry7Cb1... *
+>Cluster 50
+0	1205aa, >Cry7Ja1... *
+>Cluster 51
+0	1204aa, >Cry8Ra1... *
+>Cluster 52
+0	1199aa, >Cry8Ha1... *
+1	1186aa, >Cry8Hb1... at 92.07%
+>Cluster 53
+0	1199aa, >Cry8Sa1... *
+>Cluster 54
+0	1197aa, >Cry8La1... *
+1	1078aa, >j1.2337... at 99.35%
+>Cluster 55
+0	1192aa, >Cry19Ca1... *
+>Cluster 56
+0	1189aa, >Cry1Ca1... at 99.50%
+1	1189aa, >Cry1Ca3... at 99.41%
+2	1189aa, >Cry1Ca4... at 99.66%
+3	1189aa, >Cry1Ca6... at 99.33%
+4	1189aa, >Cry1Ca9... at 99.75%
+5	1189aa, >Cry1Ca8... at 99.75%
+6	1176aa, >Cry1Cb2... at 86.05%
+7	1189aa, >Cry1Ca7... at 99.75%
+8	1044aa, >Cry1Ca11... at 99.62%
+9	1191aa, >Cry1Ca13... *
+10	1191aa, >Cry1Ca12... at 99.92%
+11	1191aa, >Cry1Ca14... at 99.83%
+>Cluster 57
+0	1186aa, >Cry14Aa1... *
+1	1186aa, >Cry14Ab1... at 87.18%
+>Cluster 58
+0	1186aa, >mb11.5841... *
+>Cluster 59
+0	1185aa, >Cry8Qa1... *
+1	1185aa, >Cry8Qa2... at 100.00%
+>Cluster 60
+0	1154aa, >Cry7Ba1... at 78.60%
+1	1185aa, >Cry7Bb1... *
+>Cluster 61
+0	1176aa, >Cry1Aa4... at 98.04%
+1	1178aa, >Cry1Ac1... at 84.04%
+2	1177aa, >Cry1Ac2... at 84.11%
+3	1177aa, >Cry1Ac5... at 84.20%
+4	1179aa, >Cry1Ad1... at 92.03%
+5	1176aa, >Cry1Aa1... at 97.96%
+6	1181aa, >Cry1Ae1... at 90.43%
+7	1178aa, >Cry1Ac4... at 84.13%
+8	1176aa, >Cry1Aa3... at 98.04%
+9	1176aa, >Cry1Aa5... at 98.04%
+10	1179aa, >Cry1Ad2... at 92.20%
+11	1178aa, >Cry1Ac7... at 84.04%
+12	1178aa, >Cry1Ac8... at 84.04%
+13	1178aa, >Cry1Ac9... at 84.04%
+14	1178aa, >Cry1Ac10... at 84.04%
+15	1178aa, >Cry1Ac11... at 84.04%
+16	1180aa, >Cry1Aa9... at 99.41%
+17	1176aa, >Cry1Ag1... at 92.86%
+18	1176aa, >Cry1Aa7... at 95.41%
+19	1176aa, >Cry1Aa10... at 97.70%
+20	1176aa, >Cry1Aa11... at 98.13%
+21	1180aa, >Cry1Aa13... at 99.41%
+22	1177aa, >Cry1Ac15... at 84.11%
+23	1176aa, >Cry1Aa12... at 98.04%
+24	1177aa, >Cry1Ac14... at 83.86%
+25	1177aa, >Cry1Ab18... at 92.35%
+26	1181aa, >Cry1Ai1... at 88.74%
+27	1183aa, >Cry1Aa14... *
+28	1178aa, >Cry1Ac16... at 83.96%
+29	1164aa, >Cry1Ac21... at 84.02%
+30	1163aa, >Cry1Aa15... at 98.02%
+31	1177aa, >Cry1Ac18... at 84.03%
+32	1177aa, >Cry1Ac20... at 84.11%
+33	1178aa, >Cry1Ac19... at 83.87%
+34	1177aa, >Cry1Ac24... at 84.20%
+35	1177aa, >Cry1Ac17... at 84.20%
+36	1178aa, >Cry1Ac22... at 83.87%
+37	1178aa, >Cry1Ac38... at 83.62%
+38	1178aa, >Cry1Ac28... at 83.70%
+39	1178aa, >Cry1Ac39... at 83.87%
+40	1164aa, >Cry1Ac29... at 84.02%
+41	1177aa, >Cry1Ac25... at 84.03%
+42	1179aa, >Cry1Ac30... at 83.88%
+43	1178aa, >Cry1Ac26... at 83.53%
+44	1177aa, >Cry1Ac27... at 83.69%
+45	1178aa, >Cry1Ac32... at 84.04%
+46	1173aa, >Cry1Ac33... at 83.89%
+47	1179aa, >Cry1Ac31... at 83.72%
+48	1176aa, >Cry1Aa16... at 98.13%
+49	1177aa, >Cry1Ab24... at 92.35%
+50	1181aa, >Cry1Ai2... at 88.74%
+51	1183aa, >Cry1Aa17... at 97.55%
+52	1176aa, >Cry1Aa19... at 98.04%
+53	1177aa, >Cry1Aa20... at 97.79%
+54	1178aa, >Cry1Ac35... at 83.87%
+55	1182aa, >Cry1Ab27... at 93.49%
+56	1182aa, >Cry1Ab31... at 93.57%
+57	1176aa, >Cry1Aa21... at 98.04%
+58	1177aa, >Cry1Aa22... at 97.79%
+59	1182aa, >Cry1Ab34... at 91.88%
+60	1173aa, >Cry1Aa23... at 98.04%
+61	1182aa, >Cry1Ab35... at 93.65%
+62	1163aa, >Cry1Aa18... at 98.02%
+63	1182aa, >Cry1Ab36... at 93.49%
+>Cluster 62
+0	1155aa, >Cry1Ab5... at 81.47%
+1	1155aa, >Cry1Ab9... at 81.65%
+2	1155aa, >Cry1Ab7... at 81.47%
+3	1156aa, >Cry1Ab10... at 81.31%
+4	1155aa, >Cry1Ab1... at 81.65%
+5	1155aa, >Cry1Ab6... at 81.13%
+6	1155aa, >Cry1Ab8... at 81.30%
+7	1155aa, >Cry1Ab3... at 81.65%
+8	1156aa, >Cry1Ab2... at 78.11%
+9	1155aa, >Cry1Ab4... at 81.65%
+10	1155aa, >Cry1Ab12... at 81.65%
+11	1155aa, >Cry1Ab14... at 81.30%
+12	1155aa, >Cry1Ab16... at 81.21%
+13	1155aa, >Cry1Ab13... at 81.65%
+14	1155aa, >Cry1Ab15... at 81.65%
+15	1182aa, >Cry1Ah1... *
+16	1156aa, >Cry1Ab17... at 81.40%
+17	1155aa, >Cry1Ab19... at 81.39%
+18	1155aa, >Cry1Ab20... at 81.56%
+19	1155aa, >Cry1Ab21... at 81.56%
+20	1155aa, >Cry1Ab22... at 81.21%
+21	1156aa, >Cry1Ab26... at 80.97%
+22	1155aa, >Cry1Ab23... at 81.56%
+23	1160aa, >Cry1Ah3... at 99.83%
+24	1155aa, >Cry1Ab25... at 81.56%
+25	1156aa, >Cry1Ab29... at 81.57%
+26	1156aa, >Cry1Ab30... at 81.40%
+27	1156aa, >Cry1Ab32... at 81.49%
+>Cluster 63
+0	1179aa, >Cry5Da2... at 100.00%
+1	1180aa, >Cry5Da1... *
+>Cluster 64
+0	1177aa, >Cry48Aa2... *
+1	1177aa, >Cry48Aa3... at 100.00%
+2	1129aa, >Cry48Ab1... at 87.69%
+3	1129aa, >Cry48Ab2... at 87.78%
+4	1177aa, >Cry48Aa1... at 100.00%
+>Cluster 65
+0	1176aa, >Cry8Pa2... at 98.89%
+1	1177aa, >Cry8Pa1... *
+2	1177aa, >Cry8Pa3.2... at 98.90%
+>Cluster 66
+0	1174aa, >Cry8Fa1... at 99.83%
+1	1174aa, >Cry8Fa3... at 99.40%
+2	1174aa, >Cry8Fa4... at 99.66%
+3	1175aa, >Cry8Fa2... *
+>Cluster 67
+0	1171aa, >Cry1Ea1... at 79.85%
+1	1171aa, >Cry1Ea2... at 79.85%
+2	1171aa, >Cry1Ea3... at 79.93%
+3	1174aa, >Cry1Eb1... *
+4	1171aa, >Cry1Ea4... at 79.68%
+5	1171aa, >Cry1Ea6... at 79.93%
+6	1171aa, >Cry1Ea7... at 79.93%
+7	1171aa, >Cry1Ea8... at 79.68%
+8	1171aa, >Cry1Ea10... at 79.76%
+9	1171aa, >Cry1Ea9... at 79.85%
+10	1171aa, >Cry1Ea11... at 79.93%
+11	1169aa, >Cry1Ea12... at 79.30%
+>Cluster 68
+0	1174aa, >Cry1Fa2... *
+1	1174aa, >Cry1Fa1... at 100.00%
+2	1174aa, >Cry1Fb1... at 86.63%
+3	1168aa, >Cry1Fb2... at 87.07%
+4	1168aa, >Cry1Fb4... at 87.16%
+5	1169aa, >Cry1Fb3... at 87.08%
+6	1174aa, >Cry1Fb5... at 86.63%
+7	1168aa, >Cry1Fb6... at 87.07%
+8	1174aa, >Cry1Fb7... at 86.46%
+9	1174aa, >Cry1Ib5... at 99.83%
+10	1174aa, >Cry1Fa4... at 99.91%
+>Cluster 69
+0	1174aa, >Cry8Db1... *
+>Cluster 70
+0	1174aa, >Cry8Na1... *
+>Cluster 71
+0	1166aa, >Cry1Ga1... at 96.05%
+1	1173aa, >Cry1Ga2... *
+>Cluster 72
+0	1165aa, >Cry1Da1... at 85.15%
+1	1160aa, >Cry1Db1... at 79.05%
+2	1160aa, >Cry1Db2... at 78.97%
+3	1173aa, >Cry1Dc1... *
+4	1164aa, >Cry1Da3... at 82.47%
+5	1164aa, >Cry1Da4... at 82.22%
+>Cluster 73
+0	1173aa, >Cry8Ka2... *
+1	1173aa, >Cry8Ka3... at 99.74%
+2	1170aa, >Cry8Kb1... at 89.91%
+3	1170aa, >Cry8Kb2... at 89.91%
+4	1170aa, >Cry8Pa3.1... at 89.91%
+>Cluster 74
+0	1172aa, >Cry1Ha1... *
+1	1155aa, >Cry1Hb1... at 86.58%
+2	1147aa, >Cry1Hb2... at 87.01%
+>Cluster 75
+0	1170aa, >Cry1La1... at 99.40%
+1	1170aa, >Cry1La2... at 99.74%
+2	1171aa, >Cry1La3... *
+>Cluster 76
+0	1167aa, >Cry1Ja1... at 81.83%
+1	1170aa, >Cry1Jb1... *
+2	1168aa, >Cry1Ja2... at 81.76%
+3	1167aa, >Cry1Ja3... at 81.75%
+>Cluster 77
+0	1121aa, >Cry8Ma2... at 99.91%
+1	1170aa, >Cry8Ma3... *
+>Cluster 78
+0	1169aa, >Cry9Da1... *
+1	1169aa, >Cry9Db1... at 81.69%
+2	1169aa, >Cry9Da4... at 99.40%
+3	1169aa, >Cry9Dc1... at 81.18%
+>Cluster 79
+0	1169aa, >Cry1Gb1... *
+1	1169aa, >Cry1Gb2... at 99.83%
+>Cluster 80
+0	1169aa, >Cry7Fb2... *
+>Cluster 81
+0	1168aa, >Cry1Jc1... *
+1	1168aa, >Cry1Jd1... at 82.19%
+2	1168aa, >Cry1Jc2... at 99.14%
+>Cluster 82
+0	1168aa, >Cry21Aa3... *
+>Cluster 83
+0	1167aa, >Cry1Gc1... *
+>Cluster 84
+0	1167aa, >Cry8Ad1... *
+>Cluster 85
+0	1167aa, >d12.3789... *
+>Cluster 86
+0	1164aa, >Cry8Ea1... at 99.31%
+1	1164aa, >Cry8Ea4... at 98.88%
+2	1164aa, >Cry8Ea5... at 99.31%
+3	1165aa, >Cry8Ea2... *
+4	1165aa, >Cry8Ea3... at 99.31%
+5	1165aa, >Cry8Ea6... at 99.83%
+>Cluster 87
+0	1144aa, >Cry9Ba1... at 97.38%
+1	1163aa, >Cry9Bb1... at 79.19%
+2	1165aa, >Cry9Ba2... *
+>Cluster 88
+0	1165aa, >Cry7Ha1... *
+>Cluster 89
+0	1165aa, >Cry9Fa1... *
+>Cluster 90
+0	1163aa, >Cry26Aa1... *
+>Cluster 91
+0	1163aa, >Cry8Ja1... *
+>Cluster 92
+0	1160aa, >Cry8Ca1... at 99.74%
+1	1160aa, >Cry8Ca2... at 99.66%
+2	1160aa, >Cry8Ca4... at 99.66%
+3	1161aa, >Cry8Ca3... *
+>Cluster 93
+0	1161aa, >Cry7Ia1... *
+>Cluster 94
+0	1157aa, >Cry8Ga1... at 99.14%
+1	1157aa, >Cry8Ga2... at 100.00%
+2	1158aa, >Cry8Ga3... *
+>Cluster 95
+0	1157aa, >Cry7Ea3... at 99.83%
+1	1157aa, >Cry7Ea2... at 99.83%
+2	1158aa, >Cry7Ea1... *
+>Cluster 96
+0	1150aa, >Cry9Ea1... at 82.61%
+1	1152aa, >Cry9Eb1... at 97.83%
+2	1150aa, >Cry9Ea2... at 82.61%
+3	1150aa, >Cry9Ea3... at 82.52%
+4	1150aa, >Cry9Ea4... at 82.43%
+5	1150aa, >Cry9Ea5... at 82.00%
+6	1150aa, >Cry9Ea6... at 82.43%
+7	1151aa, >Cry9Ea7... at 81.15%
+8	1151aa, >Cry9Ea8... at 82.10%
+9	1148aa, >Cry9Eb2... at 99.48%
+10	1151aa, >Cry9Ea9... at 82.62%
+11	1158aa, >Cry9Eb3... *
+12	1151aa, >Cry9Ea10... at 82.36%
+>Cluster 97
+0	1157aa, >Cry8Aa1... *
+>Cluster 98
+0	1157aa, >Cry9Ca1... *
+1	1156aa, >Cry9Ca2... at 97.92%
+>Cluster 99
+0	1157aa, >Cry8-like... *
+>Cluster 100
+0	1156aa, >Cry9Aa1... at 97.66%
+1	1151aa, >Cry9Aa2... at 97.91%
+2	1152aa, >Cry9Da3... at 97.83%
+3	1157aa, >Cry9Aa4... *
+4	1157aa, >Cry9Aa5... at 97.23%
+>Cluster 101
+0	1154aa, >Cry9-like... at 81.63%
+1	1154aa, >Cry9Ed1... at 81.20%
+2	1157aa, >Cry9Ee1... *
+3	1157aa, >Cry9Ee2... at 99.83%
+>Cluster 102
+0	1155aa, >Cry1A-like... *
+>Cluster 103
+0	1155aa, >Cry7La1... *
+>Cluster 104
+0	1154aa, >Cry61Aa3... at 99.83%
+1	1154aa, >Cry61Aa2... at 99.83%
+2	1155aa, >Cry61Aa1... *
+>Cluster 105
+0	1132aa, >Cry7Gb1... at 85.87%
+1	1147aa, >Cry7Gc1... at 86.05%
+2	1132aa, >Cry7Ga2... at 83.57%
+3	1155aa, >Cry7Gd1... *
+>Cluster 106
+0	1146aa, >d12.3792... *
+>Cluster 107
+0	1138aa, >Cry7Aa1... at 91.04%
+1	1138aa, >Cry7Ab1... at 94.90%
+2	1138aa, >Cry7Ab2... at 94.20%
+3	1138aa, >Cry7Ab3... at 94.46%
+4	1145aa, >Cry7Ab5... *
+5	1138aa, >Cry7Ab6... at 95.52%
+6	1138aa, >Cry7Ab7... at 94.46%
+7	1138aa, >Cry7Ab9... at 95.25%
+8	1139aa, >Cry7Ab4... at 95.87%
+9	1139aa, >Cry7Ab8... at 94.38%
+10	1139aa, >Cry7Ac1... at 83.32%
+>Cluster 108
+0	1144aa, >Cry7Da1... at 100.00%
+1	1145aa, >Cry7Da3... *
+>Cluster 109
+0	1144aa, >Cry8Da1... *
+>Cluster 110
+0	1144aa, >Cry7Ca1... *
+>Cluster 111
+0	1136aa, >Cry4Ba2... at 99.91%
+1	1136aa, >Cry4Ba1... at 100.00%
+2	1135aa, >Cry4Ba3... at 92.25%
+3	1135aa, >Cry4Ba4... at 99.74%
+4	1136aa, >Cry4Ba5... at 100.00%
+5	1137aa, >Cyt2Ba9.1... *
+>Cluster 112
+0	1128aa, >Cry7Kb1... at 82.71%
+1	1135aa, >Cry7Ka1... *
+>Cluster 113
+0	1134aa, >Cry47Aa1... *
+>Cluster 114
+0	1109aa, >Cry28Aa1... at 97.75%
+1	1128aa, >Cry28Aa2... *
+>Cluster 115
+0	1118aa, >Cry1Ab-like.1... *
+1	1118aa, >Cry1Ab-like.2... at 93.65%
+2	1118aa, >Cry1Ab-like.3... at 93.02%
+>Cluster 116
+0	1117aa, >Cry7Fa2... at 99.82%
+1	1118aa, >Cry7Fa1... *
+>Cluster 117
+0	1078aa, >Cry67Aa2... *
+>Cluster 118
+0	1060aa, >Cry65Aa2... at 99.91%
+1	1061aa, >Cry65Aa1... *
