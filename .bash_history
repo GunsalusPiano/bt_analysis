@@ -88,3 +88,27 @@ ls scripts/
 ls
 ./scripts/cdhit/psi-cd-hit/psi-cd-hit.pl 
 ls
+ls
+cd scripts/
+ls
+cd cdhit/
+ls
+./cd-hit -h
+ls
+cd ../
+ls
+cd ../data/patric/
+ls
+ls -laht
+less all-patric-and-crickmore.aa.1k.45.cdhit
+nano all-patric-and-crickmore.aa.1k.45.cdhit
+nano all-patric-and-crickmore.aa.1k.45.cdhit
+nano all-patric-and-crickmore.aa.1k.45.cdhit
+rm all-patric-and-crickmore.aa.1k.45.cdhit*
+python
+ls
+find /opt/conda/ | grep 'font'
+find /opt/conda/ | grep -i 'font' | grep -i 'qt'
+find /opt/conda/ | grep -i 'font' | grep -i 'qt' 
+find /opt/conda/ | grep -i 'font' | grep -i 'qt' | less
+find /opt/conda/ | grep -i 'font' | grep -i 'qt' | more 
