@@ -1,0 +1,12 @@
+Started Sun Oct 14 17:59:27 UTC 2018
+Total seqs 686 in all-cry-aa.fasta
+..........100 finished 12 clusters 446 passed 12/446 clstr/passed 65.01% done 96.2 cpu
+..........200 finished 14 clusters 453 passed 2/7 clstr/passed 66.03% done 155.78 cpu
+..........300 finished 16 clusters 463 passed 2/10 clstr/passed 67.49% done 155.92 cpu
+..........400 finished 22 clusters 475 passed 6/12 clstr/passed 69.24% done 155.98 cpu
+..........500 finished 38 clusters 528 passed 16/53 clstr/passed 76.96% done 156.08 cpu
+..........600 finished 58 clusters 682 passed 20/154 clstr/passed 99.41% done 173.46 cpu
+........686 finished 61 clusters 686 passed 3/4 clstr/passed 100% done 173.72 cpu
+Completed Sun Oct 14 18:02:25 UTC 2018
+
+Total CPUs on remote hosts: 0

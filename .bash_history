@@ -119,3 +119,5 @@ xvfb-run
 xvfb-run "ete3 view -t '(a, b); ' -o test.png"
 ete3 view -t '(a, b); ' -o test.png
 xvfb-run ete3 view -t '(a, b); ' -o test.png
+python
+python
