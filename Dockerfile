@@ -14,6 +14,7 @@ RUN conda install --quiet --yes -c bioconda \
 # the conda build for cd-hit doesn't compile with psi-cdhit so I need to compile it locally
 	'cd-hit' \
 	'clustalo' \
+	'emboss' \
 	'phylip'
 RUN conda install --quiet --yes -c conda-forge \
 	'tabulate'

@@ -121,3 +121,29 @@ ete3 view -t '(a, b); ' -o test.png
 xvfb-run ete3 view -t '(a, b); ' -o test.png
 python
 python
+ls
+cd scripts/
+ls
+cd cdhit/
+ls
+cd psi-cd-hit/
+ls
+./psi-cd-hit.pl -h
+ls
+cd-hit -h
+ls
+cd ../
+ls
+ls -d */
+cd cd-hit-auxtools/
+ls
+cd ../
+ls
+./clstr2tree.pl -h
+./clstr2tree.pl --help
+nano ./clstr2tree.pl 
+nano plot_len1.pl 
+python
+clustalo -h
+ls
+proml
