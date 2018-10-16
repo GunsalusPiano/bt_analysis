@@ -147,3 +147,7 @@ python
 clustalo -h
 ls
 proml
+ls
+cd data/patric/
+ls
+proml
